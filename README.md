@@ -1,6 +1,11 @@
 
 
-### Hi there 👋, My name is Rabeya Sumi
+### Hi there 👋, I'm Rabeya Sumi!
+
+I'm a passionate developer who loves building projects and learning new technologies.
+
+💻 Currently working with React.js, Django, Nodejs, Databases
+
 Passionate about competitive programming, system design, and clean software architecture. Currently exploring AI fundamentals, machine learning, and real-world software engineering practices. Strong background in mathematics, with a focus on logic and problem solving. Focused on building tools that are minimal, efficient, and purpose-driven.
 
 Skills: Django rest framework / React / PHP / JS / PYTHON / HTML / CSS / PostgreSQL / MongoDB
