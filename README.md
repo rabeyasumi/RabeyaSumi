@@ -10,7 +10,7 @@ Passionate about competitive programming, system design, and clean software arch
 
 Skills: Django rest framework / React / PHP / JS / PYTHON / HTML / CSS / PostgreSQL / MongoDB
 
-### Please give me star projects you helped by
+### ⭐ If you like my projects, feel free to leave a star! It means a lot to me. 💙
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/RabeyaSumi/contributions?format=svg&private=false)  
 
