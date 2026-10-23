@@ -36,3 +36,28 @@ You can click the Preview link to take a look at your changes.
 ![GitHub Streak](https://streak-stats.demolab.com/?user=RabeyaSumi&theme=dark)
 
 
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RabeyaSumi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabeyaSumi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RabeyaSumi&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RabeyaSumi&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RabeyaSumi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
+</p>
+
+
