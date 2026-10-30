@@ -10,9 +10,9 @@ Passionate about competitive programming, system design, and clean software arch
 
 **Skills:**
 
-- **Expertise:** C / C++ / Python / OOP / Django / Django REST Framework / Node.js / PHP / APIs / React / JavaScript / Postman / MySQL / SQLite / PostgreSQL / MongoDB / HTML / CSS / External APIs
+- **Expertise:** C / C++ / Python / OOP / Django / Django REST Framework / Node.js / PHP / APIs / React / JavaScript / Postman / MySQL / SQLite / PostgreSQL / MongoDB / HTML / CSS / External APIs / ERP
 - **Software Requirement Tools:** Draw.io / Figma / MS Word / Websites Analysis
-- **Tools Successfully Used:** Cloudinary / EmailJS / Groq AI Integration / LaTeX / Git / GitHub / Vercel / Render / ERP / AI
+- **Tools Successfully Used:** Cloudinary / EmailJS / Groq AI Integration / LaTeX / Git / GitHub / Vercel / Render / 
 - **Practice:** MATLAB / Pandas / NumPy / Scikit-learn / K-Means Clustering
 
 
