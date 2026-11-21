@@ -14,7 +14,7 @@ Passionate about competitive programming, system design, and clean software arch
 - **[Pet Adoption Platform](https://github.com/rabeyasumi/pet-adoption-rescue-platform)** ([live](https://pet-adoption-rescue-platform.vercel.app)): REST API with filtering, favourites and an atomic admin approval flow with row locking. *React, Django REST Framework*
 - **[Django E-commerce Store](https://github.com/rabeyasumi/django-ecommerce)**: catalog, cart, coupons and SSLCommerz payment gateway in a modular Django project. *Django, SSLCommerz*
 - **[AI Job Application Tracker](https://github.com/rabeyasumi/ai-job-tracker)**: tracks applications and interviews, and matches a profile to a job description with the Groq API. *Django, Groq API*
-- **[Britannia University Online Judge](https://github.com/rabeyasumi/Britannia-University-Online-Judge)**: a programming platform built in raw PHP, with indexing and aggregation notes in the README. *PHP*
+- **[Britannia University Online Judge](https://github.com/rabeyasumi/Britannia-University-Online-Judge)**: a programming platform built in raw PHP. *PHP*
 - **[NoteVault](https://github.com/rabeyasumi/YOUR-REPOSITORY)** ([live](https://YOUR-VERCEL-URL)): note-taking platform with JWT auth, role-based access control, minimal MongoDB indexing and aggregation pipelines. *React, Node.js, Express, MongoDB*
 
 ---
