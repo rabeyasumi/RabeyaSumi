@@ -11,13 +11,46 @@ Passionate about competitive programming, system design, and clean software arch
 
 ## 🛠️ Skills
 
-| Category | Stack & Tools |
-| :--- | :--- |
-| **Languages & Frameworks** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="C" title="C" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="C++" title="C++" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python" title="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" title="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20" alt="PHP" title="PHP" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="20" alt="Django" title="Django" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="Node.js" title="Node.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" title="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="HTML5" title="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="CSS3" title="CSS3" /> · OOP · Django REST Framework · RESTful APIs |
-| **Databases & Systems** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="MySQL" title="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" alt="PostgreSQL" title="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20" alt="SQLite" title="SQLite" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" alt="MongoDB" title="MongoDB" /> · ERP System Development |
-| **Requirement & Design** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="Figma" title="Figma" /> · Draw.io · MS Word · Wireframing · System Analysis |
-| **Tools & Infrastructure** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="Git" title="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20" alt="GitHub" title="GitHub" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="20" alt="Vercel" title="Vercel" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="20" alt="LaTeX" title="LaTeX" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="20" alt="Postman" title="Postman" /> · Render · Cloudinary · EmailJS · Groq AI API |
-| **Data Science & ML** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" alt="Pandas" title="Pandas" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20" alt="NumPy" title="NumPy" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="20" alt="Scikit-learn" title="Scikit-learn" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="20" alt="MATLAB" title="MATLAB" /> · K-Means Clustering |
+**Languages**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" title="C" alt="C" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" title="C++" alt="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" title="Python" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" title="TypeScript" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" title="JavaScript" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SQL-grey?style=flat-square" height="26" title="SQL" alt="SQL" />
+
+**Backend**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="36" title="Django" alt="Django" />
+<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" height="26" title="Django REST Framework" alt="Django REST Framework" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="36" title="REST API design" alt="REST API design" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" title="PostgreSQL" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" title="MongoDB" alt="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" title="SQLite" alt="SQLite" />
+
+**Frontend**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" title="React" alt="React" />
+<img src="https://cdn.simpleicons.org/chakraui/319795" height="36" title="Chakra UI" alt="Chakra UI" />
+<img src="https://cdn.simpleicons.org/antdesign/0170FE" height="36" title="Ant Design" alt="Ant Design" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" title="Tailwind" alt="Tailwind" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" title="CSS" alt="CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" title="HTML" alt="HTML" />
+
+**Tools, Cloud & DevOps**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" title="Git" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" title="GitHub" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" title="Docker" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" title="GitHub Actions (CI/CD)" alt="GitHub Actions" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="36" title="Postman" alt="Postman" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" title="Linux CLI" alt="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="36" title="macOS CLI" alt="macOS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="36" title="Vercel" alt="Vercel" />
+<img src="https://cdn.simpleicons.org/render/46E3B7" height="36" title="Render" alt="Render" />
+<img src="https://cdn.simpleicons.org/pythonanywhere/1D9FD7" height="36" title="PythonAnywhere" alt="PythonAnywhere" />
+
+**AI Integration**<br>
+<img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" height="26" title="Groq API" alt="Groq API" />
+<img src="https://img.shields.io/badge/LLM_Integration-6C63FF?style=flat-square" height="26" title="LLM Integration" alt="LLM Integration" />
+<img src="https://img.shields.io/badge/Prompt_Writing-455A64?style=flat-square" height="26" title="Prompt Writing" alt="Prompt Writing" />
 
 ### 📌 Featured Projects
 
