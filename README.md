@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rabeya Sumi!
+### Hi, I'm Rabeya Sumi!
 
 I'm a passionate developer who loves building projects and learning new technologies.
 
