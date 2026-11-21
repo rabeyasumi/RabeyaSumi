@@ -11,46 +11,28 @@ Passionate about competitive programming, system design, and clean software arch
 
 ## 🛠️ Skills
 
-**Languages**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" title="C" alt="C" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" title="C++" alt="C++" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" title="Python" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" title="TypeScript" alt="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" title="JavaScript" alt="JavaScript" />
-<img src="https://img.shields.io/badge/SQL-grey?style=flat-square" height="26" title="SQL" alt="SQL" />
-
-**Backend**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="36" title="Django" alt="Django" />
-<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" height="26" title="Django REST Framework" alt="Django REST Framework" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="36" title="REST API design" alt="REST API design" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" title="PostgreSQL" alt="PostgreSQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" title="MongoDB" alt="MongoDB" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" title="SQLite" alt="SQLite" />
-
-**Frontend**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" title="React" alt="React" />
-<img src="https://cdn.simpleicons.org/chakraui/319795" height="36" title="Chakra UI" alt="Chakra UI" />
-<img src="https://cdn.simpleicons.org/antdesign/0170FE" height="36" title="Ant Design" alt="Ant Design" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" title="Tailwind" alt="Tailwind" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" title="CSS" alt="CSS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" title="HTML" alt="HTML" />
-
-**Tools, Cloud & DevOps**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" title="Git" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" title="GitHub" alt="GitHub" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" title="Docker" alt="Docker" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" title="GitHub Actions (CI/CD)" alt="GitHub Actions" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="36" title="Postman" alt="Postman" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" title="Linux CLI" alt="Linux" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="36" title="macOS CLI" alt="macOS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="36" title="Vercel" alt="Vercel" />
-<img src="https://cdn.simpleicons.org/render/46E3B7" height="36" title="Render" alt="Render" />
-<img src="https://cdn.simpleicons.org/pythonanywhere/1D9FD7" height="36" title="PythonAnywhere" alt="PythonAnywhere" />
-
-**AI Integration**<br>
-<img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" height="26" title="Groq API" alt="Groq API" />
-<img src="https://img.shields.io/badge/LLM_Integration-6C63FF?style=flat-square" height="26" title="LLM Integration" alt="LLM Integration" />
-<img src="https://img.shields.io/badge/Prompt_Writing-455A64?style=flat-square" height="26" title="Prompt Writing" alt="Prompt Writing" />
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" title="C" alt="C" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" title="C++" alt="C++" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" title="Python" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" title="TypeScript" alt="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" title="JavaScript" alt="JavaScript" /> <img src="https://img.shields.io/badge/SQL-grey?style=flat-square" height="26" title="SQL" alt="SQL" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="36" title="Django" alt="Django" /> <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" height="26" title="Django REST Framework" alt="Django REST Framework" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="36" title="REST API design" alt="REST API design" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" title="PostgreSQL" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" title="MongoDB" alt="MongoDB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" title="SQLite" alt="SQLite" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" title="React" alt="React" /> <img src="https://cdn.simpleicons.org/chakraui/319795" height="36" title="Chakra UI" alt="Chakra UI" /> <img src="https://cdn.simpleicons.org/antdesign/0170FE" height="36" title="Ant Design" alt="Ant Design" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" title="Tailwind" alt="Tailwind" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" title="CSS" alt="CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" title="HTML" alt="HTML" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools, Cloud &amp; DevOps</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" title="Git" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" title="GitHub" alt="GitHub" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" title="Docker" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" title="GitHub Actions (CI/CD)" alt="GitHub Actions" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="36" title="Postman" alt="Postman" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" title="Linux CLI" alt="Linux" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="36" title="macOS CLI" alt="macOS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="36" title="Vercel" alt="Vercel" /> <img src="https://cdn.simpleicons.org/render/46E3B7" height="36" title="Render" alt="Render" /> <img src="https://cdn.simpleicons.org/pythonanywhere/1D9FD7" height="36" title="PythonAnywhere" alt="PythonAnywhere" /></td>
+  </tr>
+  <tr>
+    <td><b>AI Integration</b></td>
+    <td><img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" height="26" title="Groq API" alt="Groq API" /> <img src="https://img.shields.io/badge/LLM_Integration-6C63FF?style=flat-square" height="26" title="LLM Integration" alt="LLM Integration" /> <img src="https://img.shields.io/badge/Prompt_Writing-455A64?style=flat-square" height="26" title="Prompt Writing" alt="Prompt Writing" /></td>
+  </tr>
+</table>
 
 ### 📌 Featured Projects
 
