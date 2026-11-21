@@ -111,7 +111,7 @@ Passionate about competitive programming, system design, and clean software arch
 
 ### 📌 Featured Projects
 
-- **[Globe Online Judge](https://online-judge-phi.vercel.app/problems)**: competitive programming platform with timed contests, live leaderboards, ICPC-style scoring and Elo ratings. *React, Django REST Framework, PostgreSQL, JDoodle*
+- **[Globe Online Judge(live)](https://online-judge-phi.vercel.app/problems)**: competitive programming platform with timed contests, live leaderboards, ICPC-style scoring and Elo ratings. *React, Django REST Framework, PostgreSQL, JDoodle*
 - **[Pet Adoption Platform](https://github.com/rabeyasumi/pet-adoption-rescue-platform)** ([live](https://pet-adoption-rescue-platform.vercel.app)): REST API with filtering, favourites and an atomic admin approval flow with row locking. *React, Django REST Framework*
 - **[Django E-commerce Store](https://github.com/rabeyasumi/django-ecommerce)**: catalog, cart, coupons and SSLCommerz payment gateway in a modular Django project. *Django, SSLCommerz*
 - **[AI Job Application Tracker](https://github.com/rabeyasumi/ai-job-tracker)**: tracks applications and interviews, and matches a profile to a job description with the Groq API. *Django, Groq API*
