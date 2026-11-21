@@ -10,75 +10,34 @@ Passionate about competitive programming, system design, and clean software arch
 ---
 ## 🛠️ Skills
 
-<table align="center">
+<table>
   <tr>
     <td><b>Languages</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" title="C" alt="C" /><br><sub><sub><sub>C</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" alt="C++" /><br><sub><sub><sub>C++</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" alt="Python" /><br><sub><sub><sub>Python</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" alt="TypeScript" /><br><sub><sub><sub>TypeScript</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" alt="JavaScript" /><br><sub><sub><sub>JavaScript</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP" alt="PHP" /><br><sub><sub><sub>PHP</sub></sub></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/SQL-grey?style=flat-square" height="28" title="SQL" alt="SQL" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/OOP-6C63FF?style=flat-square" height="28" title="OOP" alt="OOP" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C" alt="C" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" alt="C++" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" alt="Python" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" alt="TypeScript" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" alt="JavaScript" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP" alt="PHP" /><img src="https://img.shields.io/badge/SQL-grey?style=flat-square" height="28" title="SQL" alt="SQL" /><img src="https://img.shields.io/badge/OOP-6C63FF?style=flat-square" height="28" title="OOP" alt="OOP" /></td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" title="Django" alt="Django" /><br><sub><sub><sub>Django</sub></sub></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" height="28" title="Django REST Framework" alt="Django REST Framework" /></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" title="REST API design" alt="REST API design" /><br><sub><sub><sub>REST API design</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" alt="Node.js" /><br><sub><sub><sub>Node.js</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" alt="PostgreSQL" /><br><sub><sub><sub>PostgreSQL</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" alt="MySQL" /><br><sub><sub><sub>MySQL</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" alt="MongoDB" /><br><sub><sub><sub>MongoDB</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" title="SQLite" alt="SQLite" /><br><sub><sub><sub>SQLite</sub></sub></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/ERP_System_Development-FF6F00?style=flat-square" height="28" title="ERP System Development" alt="ERP System Development" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" title="Django" alt="Django" /><img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" height="28" title="Django REST Framework" alt="Django REST Framework" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" title="REST API design" alt="REST API design" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" alt="Node.js" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" alt="PostgreSQL" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" alt="MySQL" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" alt="MongoDB" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" title="SQLite" alt="SQLite" /><img src="https://img.shields.io/badge/ERP_System_Development-FF6F00?style=flat-square" height="28" title="ERP System Development" alt="ERP System Development" /></td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" alt="React" /><br><sub><sub><sub>React</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/chakraui/319795" height="40" title="Chakra UI" alt="Chakra UI" /><br><sub><sub><sub>Chakra UI</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/antdesign/0170FE" height="40" title="Ant Design" alt="Ant Design" /><br><sub><sub><sub>Ant Design</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" title="Tailwind" alt="Tailwind" /><br><sub><sub><sub>Tailwind</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS" alt="CSS" /><br><sub><sub><sub>CSS</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML" alt="HTML" /><br><sub><sub><sub>HTML</sub></sub></sub></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" alt="React" /><img src="https://cdn.simpleicons.org/chakraui/319795" height="40" title="Chakra UI" alt="Chakra UI" /><img src="https://cdn.simpleicons.org/antdesign/0170FE" height="40" title="Ant Design" alt="Ant Design" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" title="Tailwind" alt="Tailwind" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS" alt="CSS" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML" alt="HTML" /></td>
   </tr>
   <tr>
     <td><b>Tools, Cloud &amp; DevOps</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" alt="Git" /><br><sub><sub><sub>Git</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" alt="GitHub" /><br><sub><sub><sub>GitHub</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" alt="Docker" /><br><sub><sub><sub>Docker</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" title="GitHub Actions (CI/CD)" alt="GitHub Actions (CI/CD)" /><br><sub><sub><sub>GitHub Actions (CI/CD)</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman" alt="Postman" /><br><sub><sub><sub>Postman</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" title="macOS CLI" alt="macOS CLI" /><br><sub><sub><sub>macOS CLI</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" title="Vercel" alt="Vercel" /><br><sub><sub><sub>Vercel</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/render/46E3B7" height="40" title="Render" alt="Render" /><br><sub><sub><sub>Render</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/pythonanywhere/1D9FD7" height="40" title="PythonAnywhere" alt="PythonAnywhere" /><br><sub><sub><sub>PythonAnywhere</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/cloudinary/3448C5" height="40" title="Cloudinary" alt="Cloudinary" /><br><sub><sub><sub>Cloudinary</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" title="LaTeX" alt="LaTeX" /><br><sub><sub><sub>LaTeX</sub></sub></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/EmailJS-FF6B35?style=flat-square" height="28" title="EmailJS" alt="EmailJS" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" alt="Git" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" alt="GitHub" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" alt="Docker" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" title="GitHub Actions (CI/CD)" alt="GitHub Actions (CI/CD)" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman" alt="Postman" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" title="macOS CLI" alt="macOS CLI" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" title="Vercel" alt="Vercel" /><img src="https://cdn.simpleicons.org/render/46E3B7" height="40" title="Render" alt="Render" /><img src="https://cdn.simpleicons.org/pythonanywhere/1D9FD7" height="40" title="PythonAnywhere" alt="PythonAnywhere" /><img src="https://cdn.simpleicons.org/cloudinary/3448C5" height="40" title="Cloudinary" alt="Cloudinary" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" title="LaTeX" alt="LaTeX" /><img src="https://img.shields.io/badge/EmailJS-FF6B35?style=flat-square" height="28" title="EmailJS" alt="EmailJS" /></td>
   </tr>
   <tr>
     <td><b>AI Integration</b></td>
-    <td align="center"><img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" height="28" title="Groq API" alt="Groq API" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/LLM_Integration-6C63FF?style=flat-square" height="28" title="LLM Integration" alt="LLM Integration" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Prompt_Writing-455A64?style=flat-square" height="28" title="Prompt Writing" alt="Prompt Writing" /></td>
+    <td><img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" height="28" title="Groq API" alt="Groq API" /><img src="https://img.shields.io/badge/LLM_Integration-6C63FF?style=flat-square" height="28" title="LLM Integration" alt="LLM Integration" /><img src="https://img.shields.io/badge/Prompt_Writing-455A64?style=flat-square" height="28" title="Prompt Writing" alt="Prompt Writing" /></td>
   </tr>
   <tr>
     <td><b>Design &amp; Analysis</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma" alt="Figma" /><br><sub><sub><sub>Figma</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" height="40" title="Draw.io" alt="Draw.io" /><br><sub><sub><sub>Draw.io</sub></sub></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/MS_Word-2B579A?style=flat-square" height="28" title="MS Word" alt="MS Word" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Wireframing-FF7262?style=flat-square" height="28" title="Wireframing" alt="Wireframing" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/System_Analysis-455A64?style=flat-square" height="28" title="System Analysis" alt="System Analysis" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma" alt="Figma" /><img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" height="40" title="Draw.io" alt="Draw.io" /><img src="https://img.shields.io/badge/MS_Word-2B579A?style=flat-square" height="28" title="MS Word" alt="MS Word" /><img src="https://img.shields.io/badge/Wireframing-FF7262?style=flat-square" height="28" title="Wireframing" alt="Wireframing" /><img src="https://img.shields.io/badge/System_Analysis-455A64?style=flat-square" height="28" title="System Analysis" alt="System Analysis" /></td>
   </tr>
   <tr>
     <td><b>Data Science &amp; ML</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas" alt="Pandas" /><br><sub><sub><sub>Pandas</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy" alt="NumPy" /><br><sub><sub><sub>NumPy</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" title="Scikit-learn" alt="Scikit-learn" /><br><sub><sub><sub>Scikit-learn</sub></sub></sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" title="MATLAB" alt="MATLAB" /><br><sub><sub><sub>MATLAB</sub></sub></sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/K--Means_Clustering-8E44AD?style=flat-square" height="28" title="K-Means Clustering" alt="K-Means Clustering" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas" alt="Pandas" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy" alt="NumPy" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" title="Scikit-learn" alt="Scikit-learn" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" title="MATLAB" alt="MATLAB" /><img src="https://img.shields.io/badge/K--Means_Clustering-8E44AD?style=flat-square" height="28" title="K-Means Clustering" alt="K-Means Clustering" /></td>
   </tr>
 </table>
 
