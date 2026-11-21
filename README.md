@@ -13,7 +13,7 @@ Passionate about competitive programming, system design, and clean software arch
 <table align="center">
   <tr>
     <td><b>Languages</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C" alt="C" /><br><sub><sub><sub>C</sub></sub></sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" title="C" alt="C" /><br><sub><sub><sub>C</sub></sub></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" alt="C++" /><br><sub><sub><sub>C++</sub></sub></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" alt="Python" /><br><sub><sub><sub>Python</sub></sub></sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" alt="TypeScript" /><br><sub><sub><sub>TypeScript</sub></sub></sub></td>
