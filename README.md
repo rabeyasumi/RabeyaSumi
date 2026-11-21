@@ -10,89 +10,12 @@ Passionate about competitive programming, system design, and clean software arch
 ---
 
 
-## 🛠️ Skills
+<div align="center" style="display: flex; flex-direction: row; gap: 15px; flex-wrap: wrap; justify-content: center;">
 
-<div align="center">
-
-<!-- Programming Languages -->
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SQL-grey?style=flat-square" height="28" title="SQL" />
-</p>
-
-<!-- Backend & Database -->
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" title="Django" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" height="28" title="Django REST Framework" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" title="REST API Design" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" title="SQLite" />
-</p>
-
-<!-- Frontend -->
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/chakraui/319795" height="40" title="Chakra UI" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/antdesign/0170FE" height="40" title="Ant Design" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" title="Tailwind CSS" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML" />
-</p>
-
-<!-- Tools -->
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" title="GitHub Actions" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman" />
-</p>
-
-<!-- Platforms -->
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" title="macOS" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" title="Vercel" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/render/46E3B7" height="40" title="Render" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pythonanywhere/1D9FD7" height="40" title="PythonAnywhere" />
-</p>
-
-<!-- AI -->
-<p>
-<img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square" height="28" title="Groq API" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LLM_Integration-6C63FF?style=flat-square" height="28" title="LLM Integration" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Prompt_Writing-455A64?style=flat-square" height="28" title="Prompt Writing" />
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
 
 </div>
 
