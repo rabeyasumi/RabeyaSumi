@@ -10,15 +10,6 @@ Passionate about competitive programming, system design, and clean software arch
 ---
 
 
-<div align="center" style="display: flex; flex-direction: row; gap: 15px; flex-wrap: wrap; justify-content: center;">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-
-</div>
-
 
 ### 📌 Featured Projects
 
