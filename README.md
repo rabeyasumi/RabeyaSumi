@@ -6,16 +6,6 @@ I'm a passionate developer who loves building projects and learning new technolo
 
 Passionate about competitive programming, system design, and clean software architecture. Currently exploring AI fundamentals, machine learning, and real-world software engineering practices. Strong background in mathematics, with a focus on logic and problem solving. Focused on building tools that are minimal, efficient, and purpose-driven.
 
----
-
-### 📌 Featured Projects
-
-- **[Globe Online Judge](https://online-judge-phi.vercel.app/problems)**: competitive programming platform with timed contests, live leaderboards, ICPC-style scoring and Elo ratings. *React, Django REST Framework, PostgreSQL, JDoodle*
-- **[Pet Adoption Platform](https://github.com/rabeyasumi/pet-adoption-rescue-platform)** ([live](https://pet-adoption-rescue-platform.vercel.app)): REST API with filtering, favourites and an atomic admin approval flow with row locking. *React, Django REST Framework*
-- **[Django E-commerce Store](https://github.com/rabeyasumi/django-ecommerce)**: catalog, cart, coupons and SSLCommerz payment gateway in a modular Django project. *Django, SSLCommerz*
-- **[AI Job Application Tracker](https://github.com/rabeyasumi/ai-job-tracker)**: tracks applications and interviews, and matches a profile to a job description with the Groq API. *Django, Groq API*
-- **[Britannia University Online Judge](https://github.com/rabeyasumi/Britannia-University-Online-Judge)**: a programming platform built in raw PHP. *PHP*
-- **[NoteVault](https://github.com/rabeyasumi/notevault-platform)** ([live](https://notevault-web-x7k2.vercel.app)): note-taking platform with JWT auth, role-based access control, minimal MongoDB indexing and aggregation pipelines. *React, Node.js, Express, MongoDB*
 
 ---
 
@@ -73,6 +63,14 @@ Passionate about competitive programming, system design, and clean software arch
 ![K-Means](https://img.shields.io/badge/K--Means_Clustering-8E44AD?style=for-the-badge)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
+### 📌 Featured Projects
+
+- **[Globe Online Judge](https://online-judge-phi.vercel.app/problems)**: competitive programming platform with timed contests, live leaderboards, ICPC-style scoring and Elo ratings. *React, Django REST Framework, PostgreSQL, JDoodle*
+- **[Pet Adoption Platform](https://github.com/rabeyasumi/pet-adoption-rescue-platform)** ([live](https://pet-adoption-rescue-platform.vercel.app)): REST API with filtering, favourites and an atomic admin approval flow with row locking. *React, Django REST Framework*
+- **[Django E-commerce Store](https://github.com/rabeyasumi/django-ecommerce)**: catalog, cart, coupons and SSLCommerz payment gateway in a modular Django project. *Django, SSLCommerz*
+- **[AI Job Application Tracker](https://github.com/rabeyasumi/ai-job-tracker)**: tracks applications and interviews, and matches a profile to a job description with the Groq API. *Django, Groq API*
+- **[Britannia University Online Judge](https://github.com/rabeyasumi/Britannia-University-Online-Judge)**: a programming platform built in raw PHP. *PHP*
+- **[NoteVault](https://github.com/rabeyasumi/notevault-platform)** ([live](https://notevault-web-x7k2.vercel.app)): note-taking platform with JWT auth, role-based access control, minimal MongoDB indexing and aggregation pipelines. *React, Node.js, Express, MongoDB*
 
 
 <!---
