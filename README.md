@@ -108,21 +108,6 @@ Passionate about competitive programming, system design, and clean software arch
 </table>
 
 
-
-### 📌 Featured Projects
-
-- **[Globe Online Judge(live)](https://online-judge-phi.vercel.app/problems)**: competitive programming platform with timed contests, live leaderboards, ICPC-style scoring and Elo ratings. *React, Django REST Framework, PostgreSQL, JDoodle*
-- **[Pet Adoption Platform](https://github.com/rabeyasumi/pet-adoption-rescue-platform)** ([live](https://pet-adoption-rescue-platform.vercel.app)): REST API with filtering, favourites and an atomic admin approval flow with row locking. *React, Django REST Framework*
-- **[Django E-commerce Store](https://github.com/rabeyasumi/django-ecommerce)**: catalog, cart, coupons and SSLCommerz payment gateway in a modular Django project. *Django, SSLCommerz*
-- **[AI Job Application Tracker](https://github.com/rabeyasumi/ai-job-tracker)**: tracks applications and interviews, and matches a profile to a job description with the Groq API. *Django, Groq API*
-- **[Britannia University Online Judge](https://github.com/rabeyasumi/Britannia-University-Online-Judge)**: a programming platform built in raw PHP. *PHP*
-- **[NoteVault](https://github.com/rabeyasumi/notevault-platform)** ([live](https://notevault-web-x7k2.vercel.app)): note-taking platform with JWT auth, role-based access control, minimal MongoDB indexing and aggregation pipelines. *React, Node.js, Express, MongoDB*
-
-
-<!---
-RabeyaSumi/RabeyaSumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ### 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RabeyaSumi&show_icons=true&theme=radical)
