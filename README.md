@@ -2,7 +2,7 @@
 
 I'm a passionate developer who loves building projects and learning new technologies.
 
-💻 . . .
+💻 I work with python, django, nodejs, django rest framework, ai integration.
 
 Passionate about competitive programming, system design, and clean software architecture. Currently exploring AI, AI powered software, machine learning, and real-world software engineering practices. Strong background in mathematics, with a focus on logic and problem solving. Focused on building tools that are minimal, efficient, and purpose-driven.
 
