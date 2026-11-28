@@ -98,17 +98,6 @@ Passionate about competitive programming, system design, and clean software arch
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td><b>Data&nbsp;Science&nbsp;&amp;&nbsp;ML</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32" title="Pandas" alt="Pandas" /><br><sub>Pandas</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" title="NumPy" alt="NumPy" /><br><sub>NumPy</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="32" title="Scikit-learn" alt="Scikit-learn" /><br><sub>Scikit-learn</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="32" title="MATLAB" alt="MATLAB" /><br><sub>MATLAB</sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/K--Means_Clustering-8E44AD?style=flat-square" height="20" title="K-Means Clustering" alt="K-Means Clustering" /></td>
-  </tr>
-</table>
-
 
 ---
 
