@@ -47,8 +47,6 @@ Passionate about competitive programming, system design, and clean software arch
   <tr>
     <td><b>Frontend</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" title="React" alt="React" /><br><sub>React</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/chakraui/319795" height="32" title="Chakra UI" alt="Chakra UI" /><br><sub>Chakra&nbsp;UI</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/antdesign/0170FE" height="32" title="Ant Design" alt="Ant Design" /><br><sub>Ant&nbsp;Design</sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" title="Tailwind" alt="Tailwind" /><br><sub>Tailwind</sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" title="CSS" alt="CSS" /><br><sub>CSS</sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" title="HTML" alt="HTML" /><br><sub>HTML</sub></td>
