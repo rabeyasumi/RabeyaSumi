@@ -6,6 +6,10 @@ I'm a passionate developer who loves building projects and learning new technolo
 
 Passionate about competitive programming, system design, and clean software architecture. Currently exploring AI, AI powered software, machine learning, and real-world software engineering practices. Strong background in mathematics, with a focus on logic and problem solving. Focused on building tools that are minimal, efficient, and purpose-driven.
 
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RabeyaSumi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RabeyaSumi&layout=compact&theme=radical)
 
 ---
 
@@ -107,11 +111,6 @@ Passionate about competitive programming, system design, and clean software arch
   </tr>
 </table>
 
-
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RabeyaSumi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RabeyaSumi&layout=compact&theme=radical)
 
 ---
 
